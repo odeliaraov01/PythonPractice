@@ -1,3 +1,3 @@
 # PythonPractice
 
-HI TODAY IS WEDNSDAY ! 
+START 0811
